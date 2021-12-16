@@ -1,0 +1,52 @@
+.container{
+    width: 320px;
+  height: 540px;
+  background-color: #ebeef1;
+}
+.img{
+    padding: 157px 127px 24px 128px ;
+}
+.head{
+    font-family: HelveticaNeue;
+    font-size: 22px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.36;
+    letter-spacing: normal;
+    color: #172341;
+    text-align: center;
+    margin: 0 auto;
+}
+.txt{
+    font-family: "Raleway-Medium", serif;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.71;
+    letter-spacing: normal;
+    text-align: center;
+    color: #172341;
+    margin: 0 auto;
+    max-width: 191px;
+    padding-top: 8px;
+    padding-bottom: 156px;
+}
+.btn{
+    width: 288px;
+    height: 36px;
+    padding: 11px 128px 9px;
+    border-radius: 2px;
+    background-color: #4caf50;
+    text-decoration: none;
+    font-family: HelveticaNeue;
+    font-size: 13px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.23;
+    letter-spacing: normal;
+    color: #fff;
+    margin: 0 16px 16px ;
+}
